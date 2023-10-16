@@ -1,0 +1,144 @@
+    body{
+    background-color: black;
+}
+
+.parent{
+    display: flex;
+    border: 1px solid;
+}
+
+.child{
+    border: 1px solid;
+    width: 50%;
+    height: 250px;
+}
+
+.img{
+    width: 80px;
+    height: 80px;
+}
+
+.wall{
+    height: 300px;
+    width: 400px;
+}
+
+.wht{
+color: white;
+}
+
+.pnk{
+    color: #7b1557;
+}
+
+.spimg{
+    height: 300px;
+    width: 400px;
+}
+
+.sponsered{ 
+    color: lightgray;
+    padding-left: 550px;
+
+}
+
+.google{
+    width: 150px;
+}
+
+.Hubspot{
+    width: 150px;
+}
+
+.VI{
+    width: 150px;
+}
+
+.Buzzfeed{
+    width: 150px;
+}
+
+.sponimg{
+    background-color: white;
+    width: 1200px;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+.span{
+    padding: 70px;
+}
+
+
+.fc{
+    border: 1px white;
+    color: white;
+}
+
+.white{
+    color: white;
+    padding-left: 450px ;
+}
+
+
+.white1{
+    color: white;
+    padding-left: 550px ;
+}
+
+
+.final{
+    border: 1px white;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.final2{
+    border: 1px white;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.user{
+    width: 150px;
+}
+
+
+.size{
+   font-size: x-small;
+}
+
+.foot-head{
+   color: black;
+   align-items: center;
+   width: 100%;
+   height: 150px;
+   background-color: white;
+}
+
+.w1{
+    padding-top: 100px;
+    padding-left: 550px ;
+}
+
+.w{
+    padding-left: 450px ;  
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+.icon{
+    width: 50px;
+    margin: 25px;
+}
+
+.footer2{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
